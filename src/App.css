@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: rgb(164, 112, 112);
+  border-radius: 10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  text-align: center;
+  margin: 20px 0;
+}
+.textleft{
+  text-align: left;
+  /* margin-left: ; */
+}
+.card{
+  width: 410px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  margin:auto;
+}
+.image{
+  min-width:155px;
+  margin-right: 20px;
+}
+.stats{
+  background:rgb(164, 112, 112) !important;
+  color: black;
+}
+.articles{
+  font-size: 3px;
+  color: antiquewhite;
+}
+.followers{
+  font-size: 12px;
+  color: black;
+}
+.rating{
+  font-size: 12px;
+  color: black;
+}
+.number1{
+  font-weight: 500;
+}
+.number2{
+  font-weight: 500;
+}
+.number3{
+  font-weight: 500;
+}
+form{
+  width: 50%;
+}
